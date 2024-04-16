@@ -29,17 +29,14 @@
 ⢠⣿⣿⣿⣿⣿⣿⡤⠤⣾⣶⣿⣿⣿⣿⣿⣻⠁⠀⠀⣀⠤⠀⠒⠊⠁⠀⠀⠀⠀⠀⠠⡀⠀⢠⣭⠉⣩⣛⣿⣛⣛⣽⣻⠟⣟⣋⠿⢗⣉⡽⣻⢛⣛⣛⡛⣋⣻⣿⣿
 ⡯⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣟⡿⠥⠀⠈⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣨⡶⠛⠈⠉⠁⠀⣿⣷⣿⣻⢱⣾⣏⣬⣶⣿⢿⣿⣿⣿⣿⣿⢿⣿⣿⣿⣿
 
-kodlama
-<br>
-ogrenmeye
-<br>
-calisiyorum
-<br>
+
 sorunlarim
 <br>
 var
 
 <p align="left"><a href="https://www.youtube.com/watch?v=fTczCpIaLAU" target="_blank"><img src="https://media.tenor.com/bbDy0jzWVXoAAAAi/osaka-azumanga-daioh.gif" width="180">
+
+<i><p>sonra guncelliyecegim burayi, tesekkurler</i></p>
 
 <br><br><br>
 
